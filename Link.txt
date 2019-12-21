@@ -1,0 +1,19 @@
+https://tutorials-raspberrypi.com/configure-and-read-out-the-raspberry-pi-gas-sensor-mq-x/
+
+https://electronicshobbyists.com/raspberry-pi-sending-data-to-thingspeak-simplest-raspberry-pi-iot-project/?fbclid=IwAR1ceeGioninvkJ48ssJCpqm4VA0ZgDNsjP4pOi3a3zHjkDFRypCpRw38S8
+
+https://raspi.tv/2017/make-a-rain-alert-system-with-raspberry-pi?fbclid=IwAR2d5f2bcIJ_S-IUQ4hmGKSqbODRJgQmZpF_tb_xst2mxFtOKZZvs18mcE8
+
+https://circuitdigest.com/microcontroller-projects/raspberry-pi-iot-weather-station-to-monitor-temperature-humidity-pressure?fbclid=IwAR1jQHYLjw9v_2p3CC_mwZGHv4pa13anox9g2KAkE0WFZXcBSemKma7SKGg
+
+https://github.com/tutRPi/Raspberry-Pi-Gas-Sensor-MQ
+
+https://www.youtube.com/watch?v=iq098ymIHQ4
+https://www.youtube.com/watch?v=syeEiS-UZHc
+
+
+
+// Connect to server
+https://docs.dataplicity.com/docs/control-gpios-using-rest-api?fbclid=IwAR3NIvUhmP6F6Gn2EBSHqf7vV55EKqv5fRHG9ZkowNNBBAq76JTF-p82QN8
+
+https://medium.com/@bannuranurag/controlling-raspberry-pi-using-an-android-application-c7334625e513
