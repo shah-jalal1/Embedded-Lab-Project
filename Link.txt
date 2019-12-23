@@ -23,3 +23,8 @@ https://www.youtube.com/watch?v=zcYMB-uXKNs&list=PLx5RiOOV-qhstHLjVTHl4wLslEmtq5
 https://www.youtube.com/watch?v=mQ5qzhAt0tw&list=PLx5RiOOV-qhstHLjVTHl4wLslEmtq5lSe&index=8
 
 https://www.youtube.com/watch?v=c6FOpPXbLjs&list=PLx5RiOOV-qhstHLjVTHl4wLslEmtq5lSe&index=9
+
+
+firebase:
+
+https://raspberrypi4u.blogspot.com/2017/12/raspberry-pi-iot-firebase-realtimedatabase.html
