@@ -27,4 +27,6 @@ https://www.youtube.com/watch?v=c6FOpPXbLjs&list=PLx5RiOOV-qhstHLjVTHl4wLslEmtq5
 
 firebase:
 
+https://www.youtube.com/watch?v=2G1d3q8MlsI&t=56s
+
 https://raspberrypi4u.blogspot.com/2017/12/raspberry-pi-iot-firebase-realtimedatabase.html
