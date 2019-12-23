@@ -1,0 +1,18 @@
+git init
+git status
+git add
+git add .
+git config --global user.name ""
+git config --global user.email ""
+git commit -m "message"
+git log 
+git log --oneline
+checkint out "serial number"
+git checkout master //previous project
+git diff 
+git show "number"
+git rm name
+git reset HEAD name //unstage
+
+git remote add origin https://github.com/shah-jalal1/Embedded-Lab-Project.git
+git push -u origin master

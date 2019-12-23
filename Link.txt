@@ -17,3 +17,9 @@ https://www.youtube.com/watch?v=syeEiS-UZHc
 https://docs.dataplicity.com/docs/control-gpios-using-rest-api?fbclid=IwAR3NIvUhmP6F6Gn2EBSHqf7vV55EKqv5fRHG9ZkowNNBBAq76JTF-p82QN8
 
 https://medium.com/@bannuranurag/controlling-raspberry-pi-using-an-android-application-c7334625e513
+
+https://www.youtube.com/watch?v=zcYMB-uXKNs&list=PLx5RiOOV-qhstHLjVTHl4wLslEmtq5lSe&index=8&t=0s
+
+https://www.youtube.com/watch?v=mQ5qzhAt0tw&list=PLx5RiOOV-qhstHLjVTHl4wLslEmtq5lSe&index=8
+
+https://www.youtube.com/watch?v=c6FOpPXbLjs&list=PLx5RiOOV-qhstHLjVTHl4wLslEmtq5lSe&index=9
