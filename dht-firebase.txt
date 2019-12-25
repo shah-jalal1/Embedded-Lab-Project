@@ -44,7 +44,7 @@ def update_firebase():
 		sleep(10)
 
 	data = {"temp": temperature, "humidity": humidity}
-	firebase.post('/sensor/dht', data)
+	firebase.post('/sensor/', data)
 	
 
 while True:
@@ -52,4 +52,26 @@ while True:
 		
         #sleepTime = int(sleepTime)
 		sleep(5)
+
+
+
+$  git clone https://github.com/adafruit/Adafruit_Python_DHT.git
+
+$  cd Adafruit_Python_DHT
+
+$  sudo apt-get install build-essential python-dev python-openssl
+
+$  sudo python setup.py install
+
+
+$  sudo pip install requests==1.1.0
+$  sudo pip install python-firebase
+
+https://github.com/amphancm/Raspberrypi_Firebase
+
+dht-firebase.py ( without OLED Display)
+
+dht-firebase-oled.py ( need OLED display )
+
+and Minecraftia.ttf is font for OLED.
 	
